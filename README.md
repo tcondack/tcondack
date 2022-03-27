@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tcondack
 - 👀 I’m interested in ...learn how develope some aplications
-- 🌱 I’m currently learning ... git
+- 🌱 I’m currently learning ... html and css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
