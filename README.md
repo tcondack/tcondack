@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tcondack
 - 👀 I’m interested in ...learn how develope some aplications
-- 🌱 I’m currently learning ... html and css
+- 🌱 I’m currently learning ...
