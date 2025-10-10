@@ -1,6 +1,1 @@
-### Tiago Condack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/tcondack?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/tcondack">
-</picture>
+(https://github-readme-stats.vercel.app/api?username=tcondack)](https://github.com/tcondack/github-readme-stats)
