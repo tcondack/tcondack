@@ -1,5 +1,2 @@
 
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcondack&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcondack&show_icons=true)
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcondack&show_icons=true&&theme=radical)
