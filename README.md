@@ -10,7 +10,7 @@ Tecnologias que utilizo
 
 
 🗄️ Bancos de Dados
-<div> <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> </div>
+<div> <img src="https://skillicons.dev/icons?i=postgres" /> </div>
 
 
 🎨 Frontend
@@ -22,10 +22,6 @@ Tecnologias que utilizo
 
 
 Atualmente estudando
-- MongoDB + Mongoose, PostgreSQL
+- PostgreSQL
 - Arquitetura backend
 - CI/CD para projetos Python
-
-![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tcondack&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcondack&layout=pie)](https://github.com/tcondack/github-readme-stats)
