@@ -1,6 +1,6 @@
 Olá! Eu sou o Tiago Condack
 
-Atualmente estudante de analise e desenvolvimento de sistemas pela Unifeso.
+Atualmente estudante de Análise e Desenvolvimento de Sistemas pela Unifeso.
 
 
 Tecnologias que utilizo
